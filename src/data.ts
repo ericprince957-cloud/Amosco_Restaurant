@@ -12,9 +12,9 @@ export const businessInfo = {
   tagline: "Where Every Bite Tells a Story",
   subtitle: "Authentic Nigerian & Continental Cuisine",
   address: "15 Admiralty Way, Lekki Phase 1, Lagos, Nigeria",
-  phone: "+2348012345678",
-  phoneDisplay: "+234 801 234 5678",
-  whatsapp: "2348012345678", // No + sign, no spaces
+  phone: "+2348164896024",
+  phoneDisplay: "+234 816 489 6024",
+  whatsapp: "2348164896024", // No + sign, no spaces
   whatsappMessage: "Hello Amosco Restaurant! I'd like to place an order.",
   email: "info@amoscorestaurant.com",
   hours: {
