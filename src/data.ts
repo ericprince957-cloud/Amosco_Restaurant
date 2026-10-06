@@ -15,7 +15,7 @@ export const businessInfo = {
   phone: "+2348164896024",
   phoneDisplay: "+234 816 489 6024",
   whatsapp: "2348164896024", // No + sign, no spaces
-  whatsappMessage: "Hello Amosco Restaurant! I'd like to place an order.",
+  whatsappMessage: "Hi Amosco, I'd like to order...",
   email: "info@amoscorestaurant.com",
   hours: {
     weekday: "Mon - Sat: 9:00 AM - 10:00 PM",
